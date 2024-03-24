@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LuisTorres_Tarea2_3</string>
+    <string name="btn_foto">Foto</string>
+    <string name="hint_descripcion">Descripcion</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_lista">Ver Lista</string>
+    <string name="btn_atras">Atras</string>
+</resources>
